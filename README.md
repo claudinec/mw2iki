@@ -5,5 +5,6 @@ Or maybe do this with the XML?
 TODO
 - [ ] Export XML with just the latest revision
 - [ ] XML parser
+- [ ] (Optional) Convert from MediaWiki to Markdown format in case the mediawiki format isn't installed/working on our IkiWiki
 - [ ] Write each wiki page to a separate file
 - [ ] Move pages from namespaces other than Main to appropriate subdirectories
