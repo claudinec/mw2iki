@@ -1,0 +1,1 @@
+I need to export pages from a MediaWiki, convert them to Markdown format, and import them into IkiWiki. I haven't found success with existing methods (document these) using macOS High Sierra, so this is a hacky method using an SQL export to CSV, via Pandoc for wiki format conversion.
