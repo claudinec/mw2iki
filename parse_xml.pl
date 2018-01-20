@@ -7,6 +7,7 @@ use autodie;
 use XML::LibXML;
 
 # XML parser.
+my $infile = $ARG;
 
 # (Optional) Convert from MediaWiki to Markdown format in case the mediawiki format isn't installed/working on our IkiWiki.
 
